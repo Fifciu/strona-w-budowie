@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "live-server --entry-file=dist/index.html"
+    "start": "live-server --entry-file=docs/index.html"
   },
   "author": "",
   "license": "ISC",
